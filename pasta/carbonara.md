@@ -5,9 +5,9 @@ Recipie for spaghetti carbonara
 
  - Spaghetti
  - Guanciale
- - eggs
- - black pepper
- - peccorion
+ - Eggs
+ - Black pepper
+ - Pecorino
 
 ## Instructions
 To be added later
